@@ -66,14 +66,6 @@ A cada dia mais me encontro em um dilema de amor e ódio com os códigos, mas em
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=ouatdac&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=10091D&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA&border_color=7E22CE&ring_color=D8B4FE&custom_title=Enchanted%20Repository"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Updates" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=ouatdac&layout=compact&custom_title=Enchanted%20Stack&langs_count=8&bg_color=10091D&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA&border_color=7E22CE&ring_color=D8B4FE" 
-  />
-
 </p>
 
 <picture align="center">
