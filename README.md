@@ -17,7 +17,7 @@ A cada dia mais me encontro em um dilema de amor e ódio com os códigos, mas em
 <h3 align="left">More about me!</h3>
 
 [![E-mail](https://img.shields.io/badge/EMAIL-10091D?style=for-the-badge&logo=microsoft-outlook&logoColor=D8B4FE&labelColor=10091D)](d.aires@aluno.uepb.edu.br)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-10091D?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=10091D)](https://www.linkedin.com/in/paulopontodev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-10091D?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=10091D)]()
 
 <div align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D8B4FE&vCenter=true&width=350&lines=%E2%8A%B9+My+Code's+World+%7E;%E2%9C%A6+Where+magic+meets+code+%E2%9C%A6;%E2%8A%B9+Entering+my+digital+world..." alt="My Code's World"> </div>
 
